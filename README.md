@@ -1,1 +1,1 @@
-# Green-AI-Bootcamp
+# Green AI Bootcamp
